@@ -2,6 +2,11 @@
 2022 Q2 MRHI Team Project<br>
 전기차 충전소를 지도와 위치 정보로 편리하게 찾는 어플리케이션.<br>
 
+
+__시연 영상__<br>
+https://www.youtube.com/watch?v=92yU1wiVg0k
+<br>
+
 ### ✅ 개발 기간<br>
 ➖ 2022/06/17  ~ 2022/06/30<br>
 
@@ -47,10 +52,3 @@ GoogleMap, FloatingButton,  Lottie, JSON.xmlToJsonObject, Coroutine, Toolbar, Ha
 ### ✅ CarInfoActivity<br>
 ![carinfo](https://user-images.githubusercontent.com/100817401/177487511-9295bf4c-a4f1-4520-9884-092b8d219bf0.png)
 <br>
-
-
-실행 영상<br>
-https://www.youtube.com/watch?v=92yU1wiVg0k
-
-
-
